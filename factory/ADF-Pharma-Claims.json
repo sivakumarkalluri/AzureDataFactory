@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Pharma-Claims",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e943395a-c43e-4188-a226-b824c7ce5a7c",
+		"tenantId": "7a117c2c-d73c-453e-a0f3-358c7ad7fff3"
+	}
+}
